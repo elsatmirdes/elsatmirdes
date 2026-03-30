@@ -121,8 +121,7 @@ Kullanıcı girişi sonrası günlük kayıtlarını **.aes** formatında şifre
 ## 🤝 İletişim
 
 - GitHub: https://github.com/elsatmirdes
-- LinkedIn: **TODO: Buraya LinkedIn linkini ekle**
-- E-posta: **TODO: Buraya mail adresini ekle** (istersen hiç eklemeyebilirsin)
+- LinkedIn: https://tr.linkedin.com/in/el%C5%9Fat-mirdeso%C4%9Flu-09768819b
 
 ---
 
